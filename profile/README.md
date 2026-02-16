@@ -4,10 +4,6 @@
 
 - **[LynX Hub](https://github.com/4LynxXz/Lynx)** - Our main Fish It script
 
-### Discord Server
-
-- **[Join Discord](https://discord.gg/lynxx)**
-
 ## FISH IT 🐟 SCRIPT
 
 ```lua
